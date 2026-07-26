@@ -4,7 +4,7 @@ A bold, modern personal trainer WordPress theme built for conversions. Features 
 
 **Author:** Shaik Obydullah
 
-**Live Demo:** [obydullah.com/projects/ironfit-wordpress-theme](https://obydullah.com/project/ironfit-wordpress-theme)
+**Live Demo:** [obydullah.com/project/ironfit-wordpress-theme](https://obydullah.com/project/ironfit-wordpress-theme)
 
 ## Overview
 
