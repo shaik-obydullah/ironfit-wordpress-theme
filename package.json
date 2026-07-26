@@ -1,0 +1,12 @@
+{
+  "name": "ironfit-theme",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i src/input.css -o assets/css/tailwind.css --minify",
+    "watch": "npx @tailwindcss/cli -i src/input.css -o assets/css/tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

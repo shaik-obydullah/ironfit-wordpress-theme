@@ -1,0 +1,17 @@
+body.admin-bar .nav-blur-light {
+    top: 32px !important;
+}
+
+body.admin-bar #wpadminbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+@media (max-width: 782px) {
+    body.admin-bar .nav-blur-light {
+        top: 46px !important;
+    }
+}
