@@ -4,7 +4,7 @@ A bold, modern personal trainer WordPress theme built for conversions. Features 
 
 **Author:** Shaik Obydullah
 
-**Live Demo:** [obydullah.com/projects/ironfit-wordpress-theme](https://obydullah.com/projects/ironfit-wordpress-theme)
+**Live Demo:** [obydullah.com/projects/ironfit-wordpress-theme](https://obydullah.com/project/ironfit-wordpress-theme)
 
 ## Overview
 
@@ -59,15 +59,15 @@ ironfit-theme/
 
 ## Sections (front-page.php)
 
-| Section | Source | CPT |
-|---------|--------|-----|
-| Hero Slider | Dynamic | `ironfit_hero_slide` |
-| About | Plugin options | — (Site Settings) |
-| Services | Dynamic | `ironfit_service` |
-| Testimonials | Dynamic | `ironfit_testimonial` |
-| Pricing | Dynamic | `ironfit_pricing` |
-| Contact / Booking | Plugin options + AJAX | `ironfit_booking` |
-| Blog (index.php) | WP_Query loop | `post` (standard) |
+| Section           | Source                | CPT                   |
+| ----------------- | --------------------- | --------------------- |
+| Hero Slider       | Dynamic               | `ironfit_hero_slide`  |
+| About             | Plugin options        | — (Site Settings)     |
+| Services          | Dynamic               | `ironfit_service`     |
+| Testimonials      | Dynamic               | `ironfit_testimonial` |
+| Pricing           | Dynamic               | `ironfit_pricing`     |
+| Contact / Booking | Plugin options + AJAX | `ironfit_booking`     |
+| Blog (index.php)  | WP_Query loop         | `post` (standard)     |
 
 ## Development
 
@@ -85,6 +85,7 @@ npm run watch        # Watch mode for development
 Custom component classes are defined in `src/input.css` under `@layer components`. After editing, run `npm run build` to regenerate `assets/css/tailwind.css`.
 
 Key custom classes:
+
 - `.btn-primary` — Red gradient button with hover scale
 - `.btn-outline-light` — Outline button for dark backgrounds
 - `.card-hover` — Lift + shadow on hover
@@ -96,18 +97,23 @@ Key custom classes:
 ## Screenshots
 
 ### Hero Slider
+
 ![Hero Slider](screenshots/Hero-Slider.png)
 
 ### About Section
+
 ![About Section](screenshots/About%20Me.png)
 
 ### Testimonials
+
 ![Testimonials](screenshots/Tesimonials.png)
 
 ### Pricing Plans
+
 ![Pricing Plans](screenshots/Price-Plan.png)
 
 ### Contact / Booking Form
+
 ![Contact Form](screenshots/Contact-Form.png)
 
 ## Browser Support
