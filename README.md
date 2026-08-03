@@ -1,10 +1,18 @@
 # IronFit Theme
 
+![IronFit Theme Screenshot](screenshot.png)
+
 A bold, modern personal trainer WordPress theme built for conversions. Features a dynamic hero slider, CPT-driven content sections, and a pre-built Tailwind CSS frontend.
 
 **Author:** Shaik Obydullah
 
 **Live Demo:** [obydullah.com/project/ironfit-wordpress-theme](https://obydullah.com/project/ironfit-wordpress-theme)
+
+![WordPress](https://img.shields.io/badge/WordPress-6.x-21759B?logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.5-777BB4?logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-GPL_v2-8A2BE2)
 
 ## Overview
 
